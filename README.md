@@ -2,6 +2,16 @@
 
 I am Okoko Godwin-Jnr(WinWithData -W2D), a data enthusiast, graduate of chemical engineering, passionate about leveraging data to drive business growth and make business decisions.
 
+# Technical Skills
+<!--* Business Analysis – Skilled at requirement gathering, stakeholder analysis, process mapping, gap analysis, workflow documentation, and aligning business needs with practical solutions. -->
+
+* Data Analysis – Able to analyze data, uncover insights, identify trends, and tell meaningful stories with data to support better decision-making.
+
+* Data Visualization – Proficient in creating clear, impactful dashboards and reports using Power BI and Excel to communicate insights effectively.
+
+* SQL & Data Extraction – Experienced in writing SQL queries to extract and analyze data from databases, identify patterns, and support business insights.
+
+* Data Cleaning & Transformation – Strong in preparing clean, accurate, and well-structured datasets for analysis, using tools like Excel and Power Query.
 ## Tool Box
 * Microsoft Excel
 * Structure Query Language, SQL
