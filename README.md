@@ -21,7 +21,8 @@ I am Okoko Godwin-Jnr, a data enthusiast, graduate of chemical engineering, pass
 ## Experiences
 Take a look at some of the major projects I have worked on in past years that I have gain a wide range of experience from
 * Apartment Prices in Real Estate industry
-* 
+* MS Excel Salary Dashboard Data Analytical Project
+* Customer Churn Analytical Project
 
 <!--
 **OkokoJnr/okokojnr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
