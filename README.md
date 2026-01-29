@@ -1,6 +1,6 @@
-## Hello, Glad to have you here,
+## Hello, Glad to have you here, thanks for stopping by
 
-I am Okoko Godwin-Jnr(WinWithData -W2D), a data enthusiast, graduate of chemical engineering, passionate about leveraging data to drive business growth and make business decisions.
+I am Okoko Godwin-Jnr, a data enthusiast, graduate of chemical engineering, passionate about leveraging data to drive business growth and make business decisions.
 
 # Technical Skills
 <!--* Business Analysis – Skilled at requirement gathering, stakeholder analysis, process mapping, gap analysis, workflow documentation, and aligning business needs with practical solutions. -->
@@ -16,7 +16,7 @@ I am Okoko Godwin-Jnr(WinWithData -W2D), a data enthusiast, graduate of chemical
 * Microsoft Excel
 * Structure Query Language, SQL
 * Tableau
-* Tableau
+* Power Bi
 
 ## Experiences
 Take a look at some of the major projects I have worked on in past years that I have gain a wide range of experience from
